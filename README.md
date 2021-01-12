@@ -3,6 +3,7 @@ A Cypherpunk Chronicle of the New Millenium.
 
 
 **Preface**
+
 In early 2021 mass deplatforming of accounts contra to the official narrative occurred. The world didn't end in the year 2000, and no Y2K disasters came to pass. Some argue the [Rodney King reaction riots](https://www.npr.org/2017/04/26/524744989/when-la-erupted-in-anger-a-look-back-at-the-rodney-king-riots) of 1992 shifted the way we consume news, ushering in the "If it bleeds, it leads" news cycle. The news became less about reporting facts and journalistic integrity. Instead, we started to see shock journalism and narrative led pieces reinforced by a 24-hour news cycle. In retrospect, this hyperfocus helped acclimatize us to the current polarized way of reporting and consuming information.
 
 In mid-2020 identity politics rose to a hysterical crescendo of SJW nonsense clashing against a rise in patriotic values and idealism. In western media, you belonged to one of two camps: the left, fighting for social justice; or the right, fighting for a return to patriotic/nationalist ideals. Always on, always engaged social media along with corporate mass media propagated echo chambers further reinforcing this social division.
@@ -26,7 +27,7 @@ Look to the next chapters for a more detailed accounting of events.
 - [title/subject of your contribution here. name or alias]
 - 
 -
-...
+[...]
 
 * Pick one month to write about and self-assign (below)
 - January
@@ -41,4 +42,3 @@ Look to the next chapters for a more detailed accounting of events.
 - October
 - November
 - December
-
