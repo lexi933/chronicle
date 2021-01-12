@@ -25,8 +25,8 @@ Look to the next chapters for a more detailed accounting of events.
 
 * Write an account of the events of 2020 as you've experienced them. Can be centered around one event, a cluster of events, a trend. Feel free to pull in historical events that match current events to compare/contrast. Please write the title or subject matter of your contribution below:
 - [title/subject of your contribution here. name or alias]
-- 
--
+- []
+- []
 [...]
 
 * Pick one month to write about and self-assign (below)
